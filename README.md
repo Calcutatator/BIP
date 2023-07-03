@@ -77,4 +77,5 @@ A reserved 10% buffer of $2,000 will be in place for extensions to the work outl
 
 ### Timeline:
 Final Delivery Date: Aug 18th, 2023
+
 ![time breakdown](https://github.com/Calcutatator/BIP11/assets/114863662/e1bfcd5a-4aeb-4e55-9ab9-380e91c1d849)
