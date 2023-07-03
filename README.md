@@ -66,7 +66,8 @@ With predetermined permissions, users can discuss or publish feedback under prop
 See below breakdown of the costs involved in the process :
 
  
-![Costs.png](ipfs://bafkreiel442v4jpsnplmxdej3he66mordlpunrccdd2dfqnbrqqwh6ujja)
+<img width="469" alt="Costs" src="https://github.com/Calcutatator/BIP11/assets/114863662/f3290cfb-7ca3-43ce-8b6b-02ad9a27fb89">
+
         
 
 A reserved 10% buffer of $2,000 will be in place for extensions to the work outlined. All work within the current scope will be covered by above costs. If scope is amended due to BibilithecaDAO core contributors requirements allowance to utilise these reserved funds are approved under the core contributors discretion. Any use of these funds will be clearly communicated to the DAO and #Operations-council within the Realms Discord server.
@@ -79,4 +80,5 @@ A reserved 10% buffer of $2,000 will be in place for extensions to the work outl
 ### Timeline:
 Final Delivery Date: Aug 18th, 2023
 
-![time breakdown.png](ipfs://bafybeib6e4nkuehjob6zuwaepgbokxxqqvrti76url5dpfaon4xxyndrbq)
+![time breakdown](https://github.com/Calcutatator/BIP11/assets/114863662/fdc324e3-4018-4167-9580-4c1d6318e84f)
+
