@@ -64,11 +64,9 @@ With predetermined permissions, users can discuss or publish feedback under prop
 17,408 USDC & USDT from our current [Treasury](https://bibliothecadao.xyz/treasury)
 
 See below breakdown of the costs involved in the process :
-
- 
-<img width="469" alt="Costs" src="https://github.com/Calcutatator/BIP11/assets/114863662/f3290cfb-7ca3-43ce-8b6b-02ad9a27fb89">
-
         
+<img width="469" alt="Costs" src="https://github.com/Calcutatator/BIP11/assets/114863662/d14d1e0a-9c08-43af-a0f8-52be11efe5e0">
+
 
 A reserved 10% buffer of $2,000 will be in place for extensions to the work outlined. All work within the current scope will be covered by above costs. If scope is amended due to BibilithecaDAO core contributors requirements allowance to utilise these reserved funds are approved under the core contributors discretion. Any use of these funds will be clearly communicated to the DAO and #Operations-council within the Realms Discord server.
 
@@ -79,6 +77,4 @@ A reserved 10% buffer of $2,000 will be in place for extensions to the work outl
 
 ### Timeline:
 Final Delivery Date: Aug 18th, 2023
-
-![time breakdown](https://github.com/Calcutatator/BIP11/assets/114863662/fdc324e3-4018-4167-9580-4c1d6318e84f)
-
+![time breakdown](https://github.com/Calcutatator/BIP11/assets/114863662/e1bfcd5a-4aeb-4e55-9ab9-380e91c1d849)
