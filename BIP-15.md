@@ -1,23 +1,40 @@
 The Frontinus House Genesis Round has been seen as a monumental shift for the DAO and the Realms Autonomous World. The product market fit shown within the last round was astounding, a quick recap:
 
-On the September the 4th the Genesis grantees were approved and TEN projects granted 100 thousands lords each. The original plan was to 5 grants but after astounding amount of applications, 24 high quality applications Ser Palomato pushed forward [BIP-14](https://snapshot.org/#/council.bibliotheca.eth/proposal/0x0b370d6fe380d88be59040676d95353a54204b93eafb57a38f54ec4bb96f00c6) increasing the amount to 10 grantees.
+On the September the 4th the Genesis grantees were approved and TEN projects granted 100 thousands lords each. The original plan was to 5 grants but after astounding amount of applications, 24 high quality applications [Ser Palomato](https://twitter.com/palomato3k) pushed forward [BIP-14](https://snapshot.org/#/council.bibliotheca.eth/proposal/0x0b370d6fe380d88be59040676d95353a54204b93eafb57a38f54ec4bb96f00c6) increasing the amount to 10 grantees.
 
 Two areas have been established to showcase the Frontinus House grantees - [Notion](https://www.notion.so/biblio-admin/Frontinus-House-59abea155d2743239cac07f59350a06f) & [Monthly FH Calls](https://www.youtube.com/watch?v=dpLHW6hvJTg) **Have a look at both!**
 
-The developers building within the Realms Autonomous World has multiplied and with the only one grant the scope of the world we are buildig has increased too. Card games, Underworlds, session games, game studios - All building within our ecosystem. This was with one single grant from BibliothecaDAO.
+The developers building within the Realms Autonomous World has multiplied and with the only one grant the scope of the world we are building has increased too. Card games, Underworlds, session games, game studios - All building within our ecosystem. This was with one single grant from BibliothecaDAO.
 
-Reviewing this information
-utilises DAO assets to attract talented builders and to incentivise building within BibliothecaDAO and its current ecosystem.
+### What have we learnt with the Genesis Grant?
+-  PMF is here for providing grants within the ecosystem.
+-  BibliothecaDAO has garnered a strong ecosystem of world class builders willing to participate.
+-  Refinement of the FH grant process is needed:
+   - Clear tranche and vesting periods
+   - Either clearer and more strategic milestones or smaller grants/no milestones
+   - Solidify voting - Last minute rearranging
+The are many many teams working on Autonomous Worlds. We are one of the first and should utilise the advantages this gives us.
 
-This current proposal aims are :
--  Pilot the Frontinus House process
--  Fund a wide range of builders to build within the Realms Autonomous World
--  Lock in builders within the ecosystem to synergise with Bibliotheca DAO
--  Promote the Realms Autonomous World
+The conclusion comes to only one thing; We must continue FH rounds but we must refine and adapt in every round although the process may not be perfect, the return and value given to the DAO is a 10x of the value cost.
+
+### Frontinus House
+
+In parallel to the genesis grant the [Frontinus House](https://frontinus.house/) site and process has been completed. This will soon be moved to a fully onchain process leveraging both Starknet and Ethereum L1. This will be an innovative approach and "world" first in the crypto ecosystem.
+
+All rounds within the DAO plan to leverage this system and including this proposal.
+
+
+### The beginning of 
+
+
+
+
+
 
 The proposal will align with the [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md) and follow an amended version of the Frontinus House Process as detailed within the Voting System Amendment subsection.
 ## Outline of the Round
 This round aims to simply invite builders within the Starknet and surrounding ecosystems to build within the Realms Autonomous World. The are no restrictions as to who can propose within this round, and there is no specific theme. All submissions are welcome!
+
 
 The BibliothecaDAO community has compiled several examples of ideas that could be built:
 -  AMM front-end (swap tokens, create markets, add liquidity outside of game UI)
