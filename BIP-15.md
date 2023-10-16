@@ -76,6 +76,6 @@ The Frontinus House process has several stages to completion. Beginning on 24 Oc
 -  **1 weeks** proposal period for builders to apply for grants.
 -  **1 week** voting period for delegates to decide on which grantees get funded.
 
-This means the round will be completed on approximately **7 October 2023**, and at this point 50% of the funds will be vested over **3** months to the accepted builders.
+This means the round will be completed on approximately **7 November 2023**, and at this point 50% of the funds will be vested over **3** months to the accepted builders.
 
 Please reach out in the Bibliotheca DAO Discord with any questions, and we're excited to see what you build!
