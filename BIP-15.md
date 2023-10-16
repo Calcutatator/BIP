@@ -1,6 +1,6 @@
 The Frontinus House Genesis Round has been seen as a monumental shift for the DAO and the Realms Autonomous World. The product market fit shown within the last round was astounding, a quick recap:
 
-On the September the 4th the Genesis grantees were approved and TEN projects granted 100 thousands lords each. The original plan was to 5 grants but after astounding amount of applications, 24 high quality applications [Ser Palomato](https://twitter.com/palomato3k) pushed forward [BIP-14](https://snapshot.org/#/council.bibliotheca.eth/proposal/0x0b370d6fe380d88be59040676d95353a54204b93eafb57a38f54ec4bb96f00c6) increasing the amount to 10 grantees.
+On the September the 4th the Genesis grantees were approved and TEN projects granted 100 thousands lords each. The original plan was to 5 grants but after astounding amount of applications, [Ser Palomato](https://twitter.com/palomato3k) pushed forward [BIP-14](https://snapshot.org/#/council.bibliotheca.eth/proposal/0x0b370d6fe380d88be59040676d95353a54204b93eafb57a38f54ec4bb96f00c6) increasing the amount to 10 grantees.
 
 Two areas have been established to showcase the Frontinus House grantees - [Notion](https://www.notion.so/biblio-admin/Frontinus-House-59abea155d2743239cac07f59350a06f) & [Monthly FH Calls](https://www.youtube.com/watch?v=dpLHW6hvJTg) **Have a look at both!**
 
@@ -13,6 +13,7 @@ The developers building within the Realms Autonomous World has multiplied and wi
    - Clear tranche and vesting periods
    - Either clearer and more strategic milestones or smaller grants/no milestones
    - Solidify voting - Last minute rearranging
+
 The are many many teams working on Autonomous Worlds. We are one of the first and should utilise the advantages this gives us.
 
 The conclusion comes to only one thing; We must continue FH rounds but we must refine and adapt in every round although the process may not be perfect, the return and value given to the DAO is a 10x of the value cost.
@@ -67,6 +68,8 @@ Up to **500,000 LORDS** tokens have been reserved for allocation to builders ove
   *This will be distributed in ten grants of 50,000 LORDS each*
 
 50,000 is the maximum amount per grant, but you are of course welcome to submit smaller proposals for less than 50,000 LORDS. Any LORDS that have not been allocated to a grant will be returned to BibliothecaDAO.
+
+All costs will be allocated directly to the BibliothecaDAO Treasury. 
 
 ## Execution
 The Frontinus House process has several stages to completion. Beginning on 24 October 2023 the process will begin as follows:
