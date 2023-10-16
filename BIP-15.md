@@ -64,8 +64,8 @@ Please do not see these as requirements, but prompts as to what can be built.
 All submissions to this round will utilise [Frontinus House](https://frontinus.house/) and its standard process. Prior to submission please read [Frontinus House Charter](https://github.com/Calcutatator/Frontinus-House-Docs/blob/main/Charter/Charter.md).
 
 ## Costs
-Up to **500,000 LORDS** tokens have been reserved for allocation to builders over the **2 week** duration of the round. 
-  *This will be distributed in ten grants of 50,000 LORDS each*
+Up to **1,000,000 LORDS** tokens have been reserved for allocation to builders over the **2 week** duration of the round. 
+  *This will be distributed in tweynt grants of 50,000 LORDS each*
 
 50,000 is the maximum amount per grant, but you are of course welcome to submit smaller proposals for less than 50,000 LORDS. Any LORDS that have not been allocated to a grant will be returned to BibliothecaDAO.
 
