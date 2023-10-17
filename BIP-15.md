@@ -1,10 +1,10 @@
 The Frontinus House Genesis Round has been seen as a monumental shift for the DAO and the Realms Autonomous World. The product market fit shown within the last round was astounding, a quick recap:
 
-On the September the 4th the Genesis grantees were approved and TEN projects granted 100 thousands lords each. The original plan was to 5 grants but after astounding amount of applications, [Ser Palomato](https://twitter.com/palomato3k) pushed forward [BIP-14](https://snapshot.org/#/council.bibliotheca.eth/proposal/0x0b370d6fe380d88be59040676d95353a54204b93eafb57a38f54ec4bb96f00c6) increasing the amount to 10 grantees.
+On the September 4th the Genesis grantees were approved and TEN projects granted 100 thousands lords each. The original plan was to issue 5 grants but after an astounding number of applications, [Ser Palomato](https://twitter.com/palomato3k) proposed forward [BIP-14](https://snapshot.org/#/council.bibliotheca.eth/proposal/0x0b370d6fe380d88be59040676d95353a54204b93eafb57a38f54ec4bb96f00c6) to increase the amount to 10 grantees, which was approved.
 
 Two areas have been established to showcase the Frontinus House grantees - [Notion](https://www.notion.so/biblio-admin/Frontinus-House-59abea155d2743239cac07f59350a06f) & [Monthly FH Calls](https://www.youtube.com/watch?v=dpLHW6hvJTg) **Have a look at both!**
 
-The developers building within the Realms Autonomous World has multiplied and with the only one grant the scope of the world we are building has increased too. Card games, Underworlds, session games, game studios - All building within our ecosystem. This was with one single grant from BibliothecaDAO.
+The teams building within the Realms Autonomous World have multiplied and with only one grant round, the scope of the world we are building has meaningfully expanded. Card games, Underworlds, session games, game studios - All building within our ecosystem. This was with one single grant from BibliothecaDAO.
 
 ### What have we learnt with the Genesis Grant?
 -  PMF is here for providing grants within the ecosystem.
