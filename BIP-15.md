@@ -16,7 +16,7 @@ The teams building within the Realms Autonomous World have multiplied and with o
 
 The are many many teams working on Autonomous Worlds. We are one of the first and should utilise the advantages this gives us.
 
-The conclusion comes to only one thing; We must continue FH rounds but we must refine and adapt in every round although the process may not be perfect, the return and value given to the DAO is a 10x of the value cost.
+The conclusion comes to only one thing; We must continue FH rounds but we must refine and adapt in every round although the process may not be perfect, the return and value given to the DAO is a 10x of the cost.
 
 ### Frontinus House
 
@@ -28,7 +28,7 @@ All rounds within the DAO plan to leverage this system and including this propos
 # BIP-15 - Frontinus House Proposal 2 (Frontinus Expansion pt I)
 The Frontinus House process is a funding mechanism which utilises DAO assets to attract talented builders and to incentivise building within BibliothecaDAO and its current ecosystem.
 
-This current proposal aims are :
+This current proposal aims are:
 -  Expand upon the FH system and builder ecosystem
 -  Push for building within the Realms World Contract specifically
 -  Lock in builders within the ecosystem to synergise with Bibliotheca DAO
@@ -65,17 +65,17 @@ All submissions to this round will utilise [Frontinus House](https://frontinus.h
 
 ## Costs
 Up to **1,000,000 LORDS** tokens have been reserved for allocation to builders over the **2 week** duration of the round. 
-  *This will be distributed in tweynt grants of 50,000 LORDS each*
+  *This will be distributed in te grants of 100,000 LORDS each*
 
-50,000 is the maximum amount per grant, but you are of course welcome to submit smaller proposals for less than 50,000 LORDS. Any LORDS that have not been allocated to a grant will be returned to BibliothecaDAO.
+100,000 LORDS is the maximum amount per grant, but you are course welcome to submit smaller proposals for less than 100,000 LORDS. Any LORDS that have not been allocated to a grant will be returned to BibliothecaDAO.
 
-All costs will be allocated directly to the BibliothecaDAO Treasury. 
+All costs will be allocated directly to the BibliothecaDAO Treasury.
 
 ## Execution
-The Frontinus House process has several stages to completion. Beginning on 24 October 2023 the process will begin as follows:
+The Frontinus House process has several stages to completion. Beginning on 27 October 2023 the process will begin as follows:
 -  **1 weeks** proposal period for builders to apply for grants.
 -  **1 week** voting period for delegates to decide on which grantees get funded.
 
-This means the round will be completed on approximately **7 November 2023**, 100% of the funds will be vested over **3** months to the accepted builders.
+This means the round will be completed on approximately **3 November 2023**, 100% of the funds will be vested over **3** months to the accepted builders.
 
 Please reach out in the Bibliotheca DAO Discord with any questions, and we're excited to see what you build!
